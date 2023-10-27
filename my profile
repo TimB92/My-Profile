@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+        <meta charset="UTF-8">
+        <meta name="description" content="This is the profil of Timothée">
+        <script src="https://kit.fontawesome.com/1e08ea5535.js" crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+
+        <div class="container">
+            <div class="card-basic">
+                <h1>Bonjour ! Je m'appelle Timothée</h1>
+                <img src="../Web profil/pp.jpg" alt="Timothée Bourdeau" class="img-profil">
+                <p>
+                    Je suis quelqu’un de débrouillard car je trouve toujours des solutions à mes problèmes, j’adore voyager et découvrir de nouvelles cultures. J’ai un côté un peu décalé.
+                </p>
+            </div>
+    
+            <div class="card-basic">
+                <h2>Football</h2>
+                <p>
+                    Je suis passioné par le Football
+                </p>
+            </div>
+    
+            <div class="card-basic">
+                <h2>Patisserie</h2>
+                <p>
+                    Je suis passioné par la patisserie 
+                </p>
+            </div>
+    
+            <div class="card-basic">
+                <h2>Sport de combat</h2>
+                <p>
+                    Je suis passioné par les sports de combat
+                </p>
+            </div>
+    
+            <div class="card-basic">
+                <h2>Contact</h2>
+                <ul class="list-inline">
+                    <li>
+                        <a href="https://fr.linkedin.com/in/timoth%C3%A9e-bourdeau-a2a023294">
+                            <i class="fab fa-linkedin-square"></i>Linkedin
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.facebook.com/profile.php?id=61551252233513">
+                            <i class="fab fa-facebook-square"></i>Facebook
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </body>
+</html>
